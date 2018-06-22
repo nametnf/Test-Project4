@@ -1,0 +1,9 @@
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\bin\Debug\ProjectInterface4.exe.config
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\bin\Debug\ProjectInterface4.exe
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\bin\Debug\ProjectInterface4.pdb
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\obj\Debug\ProjectInterface4.csprojResolveAssemblyReference.cache
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\obj\Debug\ProjectInterface4.Form1.resources
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\obj\Debug\ProjectInterface4.Properties.Resources.resources
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\obj\Debug\ProjectInterface4.csproj.GenerateResource.Cache
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\obj\Debug\ProjectInterface4.exe
+C:\Users\Main User\Documents\CS298 csharp\Assignment4\ProjectInterface4\ProjectInterface4\obj\Debug\ProjectInterface4.pdb
